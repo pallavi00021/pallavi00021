@@ -9,7 +9,7 @@
 
 - :computer: I'm currently pursuing b.tech in Information Technology
 - :hourglass_flowing_sand:  Exploring different tech stack
-- :rocket: Always ready to collaborate for Projects and Hackthons
+- :rocket: Always ready to collaborate for Projects and Hackathon
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
