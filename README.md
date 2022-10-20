@@ -1,4 +1,4 @@
-<h1 align="center"> <br>Hey!! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>I'm Pallavi </h1>
+<h1 align="center"> <br>Hey!! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>I'm Pallavi Thukral</h1>
 
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/source.gif" alt="Coder GIF" width="1000">
